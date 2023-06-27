@@ -2,7 +2,7 @@
 
 ## Table of Contents:
   - [Description](#description)
-  - [Installation] (#installation)
+  - [Installation](#installation)
   - [License](#license)
   - [Questions](#questions)
 
@@ -14,9 +14,9 @@ I am displaying the skills I learned in my coding bootcamp at UNCCharlotte: flex
 User Story
 
 ```
-AS AN employer
-I WANT to view a potential employee's deployed portfolio of work samples
-SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
+AS AN employee
+I WANT a potential employer to view my deployed portfolio of work samples
+SO THAT they can review samples of my work and assess to determine whether I am a good candidate for an open position
 ```
 
 ## Installation
